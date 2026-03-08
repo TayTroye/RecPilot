@@ -1,5 +1,3 @@
-# RecPolit
+# RecPilot
 
 ## trajectory simulation agent
-
-### 
